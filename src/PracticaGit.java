@@ -5,7 +5,7 @@ public class PracticaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hola alumnos");
 		String nombre="Roerto";
-
+		System.out.println(nombre);
 	}
 
 }
